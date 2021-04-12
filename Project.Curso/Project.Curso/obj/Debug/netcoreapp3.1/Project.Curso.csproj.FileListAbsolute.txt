@@ -11,3 +11,16 @@ C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.csproj.
 C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.dll
 C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.pdb
 C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.genruntimeconfig.cache
+C:\git\estudoGit\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.exe
+C:\git\estudoGit\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.deps.json
+C:\git\estudoGit\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.runtimeconfig.json
+C:\git\estudoGit\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.runtimeconfig.dev.json
+C:\git\estudoGit\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.dll
+C:\git\estudoGit\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.pdb
+C:\git\estudoGit\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.csprojAssemblyReference.cache
+C:\git\estudoGit\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.AssemblyInfoInputs.cache
+C:\git\estudoGit\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.AssemblyInfo.cs
+C:\git\estudoGit\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.csproj.CoreCompileInputs.cache
+C:\git\estudoGit\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.dll
+C:\git\estudoGit\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.pdb
+C:\git\estudoGit\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.genruntimeconfig.cache
