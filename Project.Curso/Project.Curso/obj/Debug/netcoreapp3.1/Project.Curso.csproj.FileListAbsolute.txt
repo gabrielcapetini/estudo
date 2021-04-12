@@ -1,0 +1,13 @@
+C:\git\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.exe
+C:\git\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.deps.json
+C:\git\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.runtimeconfig.json
+C:\git\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.runtimeconfig.dev.json
+C:\git\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.dll
+C:\git\Project.Curso\Project.Curso\bin\Debug\netcoreapp3.1\Project.Curso.pdb
+C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.csprojAssemblyReference.cache
+C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.AssemblyInfoInputs.cache
+C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.AssemblyInfo.cs
+C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.csproj.CoreCompileInputs.cache
+C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.dll
+C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.pdb
+C:\git\Project.Curso\Project.Curso\obj\Debug\netcoreapp3.1\Project.Curso.genruntimeconfig.cache
